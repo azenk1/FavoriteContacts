@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FavoriteContacts</string>
+
+    <string name="number"> Number: </string>
+
+    <string-array name="contacts">
+        <item>Dave</item>
+        <item>Al</item>
+        <item>Alyssa</item>
+    </string-array>
+
+    <string-array name="numbers">
+        <item>7157719758</item>
+        <item>7155508227</item>
+        <item>7154994455</item>
+    </string-array>
+
+</resources>
